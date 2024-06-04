@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Jost", sans-serif;
+}
+
+.contenedor__uno{
+    height: 50vh;/* ocupa toda la pantalla*/
+    width: 90%;
+    background-color: brown;
+    margin: 0 auto; /* centrar */
+}
+
+img{
+    max-width: 100%;
+    
+}
